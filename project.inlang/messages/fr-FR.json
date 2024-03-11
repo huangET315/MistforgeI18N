@@ -77,7 +77,7 @@
 	"guide_draft": "Brouillon",
 	"view_guide_delete": "Supprimer",
 	"view_guide_delete_confirm": "Êtes-vous sur de vouloir supprimer le guide '{guide}' de '{user}'. Cette action est irréversible!",
-	"view_news_article_delete_confirm": "Êtes-vous sur de vouloir supprimer cet article '{article}' de '{user}'. Cette action est irréversible!",
+	"view_news_article_delete_confirm": "Êtes-vous sur de vouloir supprimer l'article '{article}' de '{user}'. Cette action est irréversible!",
 	"hero_select_all_heroes": "Tous",
 	"header_user_admin": "Admin",
 	"admin_users_id": "Id",
