@@ -91,5 +91,7 @@
 	"list_empty": "Nothing here yet",
 	"guide_new": "New Guide",
 	"news_article_new": "New Article",
-	"edit_guide_save": "Save"
+	"edit_guide_save": "Save",
+	"build_new": "New Build",
+	"header_heroes": "Heroes"
 }
