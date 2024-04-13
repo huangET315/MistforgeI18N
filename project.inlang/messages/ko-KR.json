@@ -1,0 +1,4 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"view_news_article_delete_confirm": "{article}"
+}
