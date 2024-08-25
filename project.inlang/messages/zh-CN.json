@@ -76,6 +76,8 @@
 	"user_role_user": "用户",
 	"guide_draft": "草稿",
 	"view_guide_delete": "删除",
+	"view_guide_delete_confirm": "您确定要删除由 “{user}” 创建的指南 “{guide}” 吗？此操作不可逆！ ",
+	"view_news_article_delete_confirm": "你确定要删除由 “{user}” 创建的文章 “{article}” 吗？此操作不可逆!",
 	"hero_select_all_heroes": "全部",
 	"header_user_admin": "管理员",
 	"admin_users_id": "Id",
